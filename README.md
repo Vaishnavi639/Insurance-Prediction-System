@@ -55,3 +55,6 @@ Project Organization
 --------
 
 <p><small>Project based on the <a target="_blank" href="https://drivendata.github.io/cookiecutter-data-science/">cookiecutter data science project template</a>. #cookiecutterdatascience</small></p>
+
+
+![Image](https://github.com/user-attachments/assets/51281eb6-aec4-4476-a2c9-c98cc9308014)
