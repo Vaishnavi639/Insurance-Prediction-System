@@ -1,7 +1,7 @@
-mlops
+MLOps
 ==============================
 
-this is a mlops project
+This is a MLOps project
 
 Project Organization
 ------------
@@ -58,3 +58,5 @@ Project Organization
 
 
 ![Image](https://github.com/user-attachments/assets/51281eb6-aec4-4476-a2c9-c98cc9308014)
+
+![Image](https://github.com/user-attachments/assets/6d9eff0c-8798-4a97-8904-a5d89e92ed51)
